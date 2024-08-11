@@ -17,15 +17,6 @@ In my spare time I develop smaller robotic systems and other peripherals such as
     <img src=./imgs/scrappy.jfif height=200>
 </div>
 
-Scrappy is a small open source robot that is designed out of commonly found equipment such as SLA batteries, stepper motors, and hobby grade servos. Using more common parts is aimed to lower the entry level of robotic developemnt with very modifiable systems. Any other non COTs part is aimed to be a m3 nut/bolt, a standard bearing size, or 3D printed plastic. 
-
-## Keyboard: 
-Currently under development is a 60% ortho-linear keyboard for my day to day use with low profile switches. The new aspect is that this will be collapsible ustilizing pogopins for the bridge to the second half of the board. 
-
-## Displays: 
-Currently I have 3 different display projects ongoing. One is using the 16x32 LED matrix from adafruit, one using a small touch display bar, and one is in research to create a small holographic image. 
-
-# Other info
 
 ## &#x1f4c8; GitHub Stats
 
