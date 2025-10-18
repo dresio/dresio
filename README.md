@@ -12,6 +12,9 @@ In my spare time I develop smaller robotic systems and other peripherals such as
 
 
 # Projects
+## [Veritas](https://github.com/dresio/veritas): 
+This project is aimed at training extremely small neural networks to perform tasks on embedded platforms for robotic systems. Due to this, the current model in work is aimed to be a drop in replacement for an IK solver on trained on a specific IK chain. The complexity of it is made to be as small as possible, with an input layer size of 3, 2 hidden layers with a size of 3xjoints, and an output layer size of the number of joints. For a 3 DOF leg this leaves it with only 25 nodes, and executes around 15x times faster then traditional IK solvers. 
+
 ## Scrappy:
 <div align="center"> 
     <img src=./imgs/scrappy.jfif height=200>
